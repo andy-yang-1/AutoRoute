@@ -33,3 +33,7 @@ python3 train.py task=QuadRoute headless=True
 cd src
 python3 train.py task=QuadRoute checkpoint={path} test=True
 ~~~
+
+## Paper
+
+See [minipaper](doc/AutoRoute.pdf)
